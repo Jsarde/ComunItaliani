@@ -1,0 +1,127 @@
+﻿ITTER107;Territorio;TIPO_DATO_FOL;Tipo dato;SEXISTAT1;Sesso;ETA1;Classe di età;TITOLO_STUDIO;Titolo di studio;TIME;Seleziona periodo;Value;ANNI_STUDIO
+ITC1;Piemonte;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;566.411;0,75
+ITC1;Piemonte;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.253.397;2,66
+ITC1;Piemonte;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;303.448;0,89
+ITC1;Piemonte;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.091.093;3,77
+ITC1;Piemonte;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;550.369;2,63
+ITC1;Piemonte;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;3.764.718;10,70
+ITC2;Valle d'Aosta;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;15.222;0,70
+ITC2;Valle d'Aosta;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;37.907;2,81
+ITC2;Valle d'Aosta;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;7000;0,71
+ITC2;Valle d'Aosta;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;33.028;3,97
+ITC2;Valle d'Aosta;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;14.945;2,49
+ITC2;Valle d'Aosta;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;108.102;10,68
+ITC3;Liguria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;181.169;0,67
+ITC3;Liguria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;410.090;2,42
+ITC3;Liguria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;82.237;0,67
+ITC3;Liguria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;462.017;4,43
+ITC3;Liguria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;220.657;2,93
+ITC3;Liguria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;1.356.170;11,11
+ITC4;Lombardia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;1.140.246;0,66
+ITC4;Lombardia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;2.828.330;2,61
+ITC4;Lombardia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;752.599;0,96
+ITC4;Lombardia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;2.515.724;3,78
+ITC4;Lombardia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;1.425.156;2,96
+ITC4;Lombardia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;8.662.055;10,96
+ITD1;Trentino Alto Adige(P.A.Bolzano);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;49.140;0,56
+ITD1;Trentino Alto Adige(P.A.Bolzano);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;151.521;2,74
+ITD1;Trentino Alto Adige(P.A.Bolzano);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;69.997;1,74
+ITD1;Trentino Alto Adige(P.A.Bolzano);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;114.096;3,35
+ITD1;Trentino Alto Adige(P.A.Bolzano);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;57.677;2,35
+ITD1;Trentino Alto Adige(P.A.Bolzano);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;442.431;10,74
+ITD2;Trentino Alto Adige(P.A.Trento);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;53.218;0,58
+ITD2;Trentino Alto Adige(P.A.Trento);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;142.481;2,48
+ITD2;Trentino Alto Adige(P.A.Trento);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;68.222;1,63
+ITD2;Trentino Alto Adige(P.A.Trento);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;121.140;3,42
+ITD2;Trentino Alto Adige(P.A.Trento);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;74.812;2,93
+ITD2;Trentino Alto Adige(P.A.Trento);POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;459.873;11,04
+ITD3;Veneto;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;639.028;0,76
+ITD3;Veneto;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.347.294;2,55
+ITD3;Veneto;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;391.606;1,02
+ITD3;Veneto;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.222.631;3,76
+ITD3;Veneto;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;623.857;2,66
+ITD3;Veneto;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;4.224.416;10,75
+ITD4;Friuli Venezia Giulia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;133.686;0,63
+ITD4;Friuli Venezia Giulia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;318.604;2,41
+ITD4;Friuli Venezia Giulia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;99.942;1,04
+ITD4;Friuli Venezia Giulia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;337.644;4,16
+ITD4;Friuli Venezia Giulia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;166.284;2,83
+ITD4;Friuli Venezia Giulia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;1.056.160;11,08
+ITD5;Emilia Romagna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;558.706;0,73
+ITD5;Emilia Romagna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.138.292;2,36
+ITD5;Emilia Romagna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;286.304;0,82
+ITD5;Emilia Romagna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.196.688;4,04
+ITD5;Emilia Romagna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;671.049;3,14
+ITD5;Emilia Romagna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;3.851.040;11,08
+ITE1;Toscana;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;554.281;0,85
+ITE1;Toscana;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;983.835;2,43
+ITE1;Toscana;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;149.790;0,51
+ITE1;Toscana;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.041.548;4,18
+ITE1;Toscana;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;512.291;2,84
+ITE1;Toscana;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;3.241.746;10,81
+ITE2;Umbria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;120.165;0,78
+ITE2;Umbria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;205.546;2,15
+ITE2;Umbria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;40.143;0,58
+ITE2;Umbria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;268.252;4,55
+ITE2;Umbria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;131.496;3,09
+ITE2;Umbria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;765.602;11,16
+ITE3;Marche;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;230.236;0,87
+ITE3;Marche;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;391.824;2,37
+ITE3;Marche;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;68.082;0,57
+ITE3;Marche;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;416.678;4,10
+ITE3;Marche;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;213.212;2,91
+ITE3;Marche;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;1.320.033;10,82
+ITE4;Lazio;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;593.348;0,59
+ITE4;Lazio;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.432.240;2,27
+ITE4;Lazio;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;128.844;0,28
+ITE4;Lazio;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.834.509;4,72
+ITE4;Lazio;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;1.059.671;3,78
+ITE4;Lazio;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;5.048.611;11,64
+ITF1;Abruzzo;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;196.318;0,86
+ITF1;Abruzzo;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;315.746;2,22
+ITF1;Abruzzo;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;36.034;0,35
+ITF1;Abruzzo;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;408.012;4,66
+ITF1;Abruzzo;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;182.574;2,89
+ITF1;Abruzzo;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;1.138.684;10,97
+ITF2;Molise;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;50.263;0,95
+ITF2;Molise;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;79.530;2,40
+ITF2;Molise;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;6.999;0,29
+ITF2;Molise;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;91.884;4,50
+ITF2;Molise;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;36.696;2,49
+ITF2;Molise;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;265.372;10,62
+ITF3;Campania;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;899.763;0,91
+ITF3;Campania;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.713.915;2,78
+ITF3;Campania;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;127.356;0,28
+ITF3;Campania;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.552.766;4,09
+ITF3;Campania;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;642.117;2,34
+ITF3;Campania;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;4.935.916;10,40
+ITF4;Puglia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;755.411;1,09
+ITF4;Puglia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.213.656;2,79
+ITF4;Puglia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;75.739;0,24
+ITF4;Puglia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.024.754;3,83
+ITF4;Puglia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;407.875;2,11
+ITF4;Puglia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;3.477.434;10,06
+ITF5;Basilicata;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;94.502;0,97
+ITF5;Basilicata;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;139.614;2,29
+ITF5;Basilicata;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;15.456;0,35
+ITF5;Basilicata;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;176.581;4,70
+ITF5;Basilicata;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;62.066;2,29
+ITF5;Basilicata;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;488.219;10,59
+ITF6;Calabria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;353.052;1,06
+ITF6;Calabria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;541.773;2,60
+ITF6;Calabria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;26.849;0,18
+ITF6;Calabria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;538.093;4,20
+ITF6;Calabria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;204.374;2,21
+ITF6;Calabria;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;1.664.141;10,26
+ITG1;Sicilia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;831.881;0,98
+ITG1;Sicilia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;1.532.346;2,87
+ITG1;Sicilia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;73.210;0,19
+ITG1;Sicilia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;1.332.377;4,06
+ITG1;Sicilia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;494.471;2,09
+ITG1;Sicilia;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;4.264.285;10,19
+ITG2;Sardegna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;3;licenza di scuola elementare, nessun titolo di studio;5;2020;246.939;0,86
+ITG2;Sardegna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;4;licenza di scuola media;8;2020;555.233;3,08
+ITG2;Sardegna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;5;diploma 2-3 anni (qualifica professionale);11;2020;30.938;0,24
+ITG2;Sardegna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;6;diploma 4-5 anni (maturità);13;2020;416.989;3,76
+ITG2;Sardegna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;11;laurea e post-laurea;18;2020;192.115;2,40
+ITG2;Sardegna;POP_15;popolazione 15 anni e oltre (migliaia);9;totale;Y_GE15;15 anni e più;99;totale;2020;2020;1.442.214;10,33
